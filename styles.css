@@ -248,6 +248,8 @@ img {
   display: inline-block;
   background-color: var(--first-color);
   color: #fff;
+  margin: auto;
+  display: flex;
   text-align: center;
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
@@ -379,6 +381,8 @@ img {
 
 .contact__button {
   display: block;
+  margin: auto;
+  display: flex;
   border: none;
   text-align: center;
   outline: none;
