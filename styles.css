@@ -381,8 +381,8 @@ img {
 
 .contact__button {
   display: block;
-  margin: auto;
-  display: flex;
+/*   margin: auto; */
+/*   display: flex; */
   border: none;
   text-align: center;
   outline: none;
